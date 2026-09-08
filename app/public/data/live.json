@@ -1,0 +1,10 @@
+{
+  "channel": {
+    "id": "live-1",
+    "title": "Harbor cam — live",
+    "description": "The harbor overnight.",
+    "kind": "live",
+    "durationSec": 0,
+    "hue": 198
+  }
+}

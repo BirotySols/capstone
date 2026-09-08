@@ -1,0 +1,98 @@
+[
+  {
+    "id": "vod-01",
+    "title": "Night ferry",
+    "description": "A crossing after dark.",
+    "kind": "vod",
+    "durationSec": 5400,
+    "hue": 220
+  },
+  {
+    "id": "vod-02",
+    "title": "Glassworks",
+    "description": "Heat and sand on the night shift.",
+    "kind": "vod",
+    "durationSec": 3600,
+    "hue": 32
+  },
+  {
+    "id": "vod-03",
+    "title": "Dry dock",
+    "description": "Hulls in the sheds.",
+    "kind": "vod",
+    "durationSec": 2700,
+    "hue": 160
+  },
+  {
+    "id": "vod-04",
+    "title": "Signal flags",
+    "description": "Hoists along the mast.",
+    "kind": "vod",
+    "durationSec": 4800,
+    "hue": 280
+  },
+  {
+    "id": "vod-05",
+    "title": "Tide tables",
+    "description": "Numbers for the next window.",
+    "kind": "vod",
+    "durationSec": 2100,
+    "hue": 12
+  },
+  {
+    "id": "vod-06",
+    "title": "Pilot boat",
+    "description": "Out to the inbound hull.",
+    "kind": "vod",
+    "durationSec": 3900,
+    "hue": 95
+  },
+  {
+    "id": "vod-07",
+    "title": "Fog horn",
+    "description": "Low notes over the breakwater.",
+    "kind": "vod",
+    "durationSec": 1500,
+    "hue": 250
+  },
+  {
+    "id": "vod-08",
+    "title": "Quay lights",
+    "description": "Sodium along the edge.",
+    "kind": "vod",
+    "durationSec": 7200,
+    "hue": 45
+  },
+  {
+    "id": "vod-09",
+    "title": "Chart room",
+    "description": "Paper still on the table.",
+    "kind": "vod",
+    "durationSec": 3300,
+    "hue": 175
+  },
+  {
+    "id": "vod-10",
+    "title": "Ballast",
+    "description": "Weight for a level ride.",
+    "kind": "vod",
+    "durationSec": 2400,
+    "hue": 310
+  },
+  {
+    "id": "vod-11",
+    "title": "Spare coil",
+    "description": "Line waiting in the locker.",
+    "kind": "vod",
+    "durationSec": 1800,
+    "hue": 70
+  },
+  {
+    "id": "vod-12",
+    "title": "Last watch",
+    "description": "The hour before relief.",
+    "kind": "vod",
+    "durationSec": 6000,
+    "hue": 140
+  }
+]
